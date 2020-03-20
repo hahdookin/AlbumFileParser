@@ -1,21 +1,17 @@
-Location: C:\Users\paperboy\PycharmProjects\Album File Parser\venv\
+Location: C:\Users\paperboy\PycharmProjects\AlbumFileParser\venv\
 want to listen:
 talking heads - remain in light
 the microphones - the glow pt. 2 
 swans - soundtracks for the blind
-have a nice life - deathconsciousness
 godspeed you! black emperor - lift your skinny fists like antennas to heaven
 dj shadow - endtroducing...
 Sigur rós - Ágætis byrjun
-camel - mirage
 flying lotus - cosmogramma
 JL/POB - s/t
-boards of canada - music has the right to children
 can - future days
 death grips - the powers that b
 king crimson - discipline
 modest mouse - the lonesome crowded west
-ween - quebec
  
 have listened:
 miles davis - in a silent way - [5/5]
@@ -43,7 +39,7 @@ john coltrane - a love supreme - [4/5]
 kelly anderson - mood - [2.5/5]
 the doors - the doors - [5/5]
 radiohead - in rainbows - [5/5]
-the strokes - is this it - [4/5]
+the strokes - is this it - [4.5/5]
 fishmans - long season - [5/5]
 fishmans - live album - [5/5]
 charles mingus - the black saint and the sinner lady - [5/5]
@@ -113,3 +109,9 @@ frank ocean - blonde - [4.5/5]
 the beatles - magical mystery tour - [4/5]
 ween - quebec - [5/5]
 the flaming lips - yoshimi battles the pink robots - [4.5/5]
+danny brown - atrocity exhibition - [4/5]
+nujabes - metaphorical music - [4.5/5]
+nujabes - modal soul - [4/5]
+nujabes - spiritual state - [4/5]
+aphex twin - drukqs - [3/5]
+aphex twin - selected ambient works volume II - [3.5/5]
