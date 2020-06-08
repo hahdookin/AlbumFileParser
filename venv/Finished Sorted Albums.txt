@@ -70,9 +70,13 @@
 • frank ocean:
   + blonde - 90.0%
   + channel orange - 90.0%
+  + channel orange - 90.0%
 
 • frank zappa:
   + hot rats - 98.0%
+
+• fripp & eno:
+  + evening star - 76.0%
 
 • haruomi hosono:
   + watering a flower - 60.0%
@@ -164,7 +168,7 @@
   + in rainbows - 100.0%
   + kid a - 100.0%
   + ok computer - 100.0%
-  + the bends - 70.0%
+  + the bends - 100.0%
 
 • remo drive:
   + greatest hits - 80.0%
